@@ -24,7 +24,7 @@ A simple **Tic Tac Toe** game built using **JavaScript** and **HTML/CSS**. This 
 
 ---
 
-**🙋‍♂️ Author **   
+**🙋‍♂️ Author **  
 👨‍💻 Ajay Joshi    
 📧 ajayjoshi1908@gmail.com
 
